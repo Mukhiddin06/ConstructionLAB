@@ -76,3 +76,5 @@ export default defineConfig([
 ])
 
 ```
+
+this is for companies make buildings
